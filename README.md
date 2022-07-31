@@ -4,7 +4,9 @@
 
 # 💫 About Me:
 
-⚡Hi... Raviraj here,<br>I have done master's in CSE from the College of Engineering Pune.<br>Got into research due to my problem-solving ability but to express them <br> I realized I needed to learn development.<br><br>⚡Good at DSA, Networking, OS, DB, <br>MicroProcessors, NLP, Info-security, UX.<br><br>⚡Languages: Python, Node-js.<br><br>⚡Teach me: DevOps, UI design, Advanced Node.<br><br>⚡Iron man is the best avenger period.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=Hey!+It's+Raviraj+here;)](https://git.io/typing-svg)
+
+⚡I have done master's in CSE from the College of Engineering Pune.<br>Got into research due to my problem-solving ability but to express them <br> I realized I needed to learn development.<br><br>⚡Good at DSA, Networking, OS, DB, <br>MicroProcessors, NLP, Info-security, UX.<br><br>⚡Languages: Python, Node-js.<br><br>⚡Teach me: DevOps, UI design, Advanced Node.<br><br>⚡Iron man is the best avenger period.
 
 
 ## 🌐 Socials:
@@ -21,7 +23,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=stormspirit03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
-<img src="https://stormspirit03.github.io/portfolio/css/images/i1.gif"/>
+### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/raviraj-gardi/raviraj-gardi/blob/600a6502f9e17847a5c728398770ef9d1c19594d/snanke%20eating%20git.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stormspirit03&icon=0&color=0)](https://visitcount.itsvg.in)
